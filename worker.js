@@ -513,7 +513,7 @@ const HTML_CONTENT = `<!DOCTYPE html>
     <div class="chat-container">
         <div class="chat-header">
             <h1>💼 C-Bot</h1>
-            <p>Your least qualified, most entitled coworker • Online (unfortunately)</p>
+            <p>Your least qualified, most entitled coworker • Online (unfortunately) probably on my phone while having fun somewhere</p>
         </div>
 
         <div class="controls">
